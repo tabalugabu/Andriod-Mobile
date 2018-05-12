@@ -4,7 +4,7 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
 
-// erster Screen
+    // erster Screen
     <string name="user_name">Name</string>
     <string name="user_password">Passwort</string>
     <string name="log_in_button">Log In</string>
