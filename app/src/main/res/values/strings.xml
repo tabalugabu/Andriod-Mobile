@@ -8,4 +8,11 @@
     <string name="user_name">Name</string>
     <string name="user_password">Passwort</string>
     <string name="log_in_button">Log In</string>
+
+    // für Menü Buttons
+    <string name="navigation_offer">Offer</string>
+    <string name="navigation_search">Search</string>
+    <string name="navigation_home">Home</string>
+    <string name="navigation_notifications">Notifications</string>
+    <string name="navigation_profile">Profile</string>
 </resources>
